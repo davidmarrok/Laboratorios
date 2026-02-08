@@ -1,2 +1,6 @@
 # Laboratorios
-Laboratorios pensamiento computacional semestre 1
+
+Laboratorios Pensamiento Computacional Semestre 1
+
+Universidad Rafael Landívar
+
