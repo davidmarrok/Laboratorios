@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ASUS\\OneDrive\\Documentos\\José\\2026\\URL\\Primer semestre\\Pensamiento Computacional\\Laboratorio\\VisualStudio\\Lab03-A2-Jose Marroquin\\Lab03-A2-Jose Marroquin\\Lab03-A2-Jose Marroquin.csproj",
+      "projectUniqueName": "C:\\Users\\ASUS\\OneDrive\\Documentos\\José\\2026\\URL\\Primer semestre\\Pensamiento Computacional\\Laboratorio\\Git hub\\Laboratorios\\Lab3\\Lab03-A2-Jose Marroquin\\Lab03-A2-Jose Marroquin\\Lab03-A2-Jose Marroquin.csproj",
       "projectName": "Lab03-A2-Jose Marroquin",
-      "projectPath": "C:\\Users\\ASUS\\OneDrive\\Documentos\\José\\2026\\URL\\Primer semestre\\Pensamiento Computacional\\Laboratorio\\VisualStudio\\Lab03-A2-Jose Marroquin\\Lab03-A2-Jose Marroquin\\Lab03-A2-Jose Marroquin.csproj",
+      "projectPath": "C:\\Users\\ASUS\\OneDrive\\Documentos\\José\\2026\\URL\\Primer semestre\\Pensamiento Computacional\\Laboratorio\\Git hub\\Laboratorios\\Lab3\\Lab03-A2-Jose Marroquin\\Lab03-A2-Jose Marroquin\\Lab03-A2-Jose Marroquin.csproj",
       "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ASUS\\OneDrive\\Documentos\\José\\2026\\URL\\Primer semestre\\Pensamiento Computacional\\Laboratorio\\VisualStudio\\Lab03-A2-Jose Marroquin\\Lab03-A2-Jose Marroquin\\obj\\",
+      "outputPath": "C:\\Users\\ASUS\\OneDrive\\Documentos\\José\\2026\\URL\\Primer semestre\\Pensamiento Computacional\\Laboratorio\\Git hub\\Laboratorios\\Lab3\\Lab03-A2-Jose Marroquin\\Lab03-A2-Jose Marroquin\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -67,7 +67,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.102/PortableRuntimeIdentifierGraph.json",
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.103/PortableRuntimeIdentifierGraph.json",
         "packagesToPrune": {
           "Microsoft.CSharp": "(,4.7.32767]",
           "Microsoft.VisualBasic": "(,10.4.32767]",
