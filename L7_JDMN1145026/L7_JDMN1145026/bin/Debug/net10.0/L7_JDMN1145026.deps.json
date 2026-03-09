@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "L7_JDMN1145026/1.0.0": {
+        "runtime": {
+          "L7_JDMN1145026.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "L7_JDMN1145026/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
