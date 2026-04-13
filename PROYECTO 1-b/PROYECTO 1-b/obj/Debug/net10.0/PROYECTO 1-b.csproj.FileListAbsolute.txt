@@ -1,0 +1,15 @@
+C:\Users\ASUS\OneDrive\Documentos\José\2026\URL\Primer semestre\Pensamiento Computacional\Laboratorio\Git hub\Laboratorios\PROYECTO 1-b\PROYECTO 1-b\bin\Debug\net10.0\PROYECTO 1-b.exe
+C:\Users\ASUS\OneDrive\Documentos\José\2026\URL\Primer semestre\Pensamiento Computacional\Laboratorio\Git hub\Laboratorios\PROYECTO 1-b\PROYECTO 1-b\bin\Debug\net10.0\PROYECTO 1-b.deps.json
+C:\Users\ASUS\OneDrive\Documentos\José\2026\URL\Primer semestre\Pensamiento Computacional\Laboratorio\Git hub\Laboratorios\PROYECTO 1-b\PROYECTO 1-b\bin\Debug\net10.0\PROYECTO 1-b.runtimeconfig.json
+C:\Users\ASUS\OneDrive\Documentos\José\2026\URL\Primer semestre\Pensamiento Computacional\Laboratorio\Git hub\Laboratorios\PROYECTO 1-b\PROYECTO 1-b\bin\Debug\net10.0\PROYECTO 1-b.dll
+C:\Users\ASUS\OneDrive\Documentos\José\2026\URL\Primer semestre\Pensamiento Computacional\Laboratorio\Git hub\Laboratorios\PROYECTO 1-b\PROYECTO 1-b\bin\Debug\net10.0\PROYECTO 1-b.pdb
+C:\Users\ASUS\OneDrive\Documentos\José\2026\URL\Primer semestre\Pensamiento Computacional\Laboratorio\Git hub\Laboratorios\PROYECTO 1-b\PROYECTO 1-b\obj\Debug\net10.0\PROYECTO 1-b.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive\Documentos\José\2026\URL\Primer semestre\Pensamiento Computacional\Laboratorio\Git hub\Laboratorios\PROYECTO 1-b\PROYECTO 1-b\obj\Debug\net10.0\PROYECTO 1-b.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive\Documentos\José\2026\URL\Primer semestre\Pensamiento Computacional\Laboratorio\Git hub\Laboratorios\PROYECTO 1-b\PROYECTO 1-b\obj\Debug\net10.0\PROYECTO 1-b.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Documentos\José\2026\URL\Primer semestre\Pensamiento Computacional\Laboratorio\Git hub\Laboratorios\PROYECTO 1-b\PROYECTO 1-b\obj\Debug\net10.0\PROYECTO 1-b.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Documentos\José\2026\URL\Primer semestre\Pensamiento Computacional\Laboratorio\Git hub\Laboratorios\PROYECTO 1-b\PROYECTO 1-b\obj\Debug\net10.0\PROYECTO 1-b.sourcelink.json
+C:\Users\ASUS\OneDrive\Documentos\José\2026\URL\Primer semestre\Pensamiento Computacional\Laboratorio\Git hub\Laboratorios\PROYECTO 1-b\PROYECTO 1-b\obj\Debug\net10.0\PROYECTO 1-b.dll
+C:\Users\ASUS\OneDrive\Documentos\José\2026\URL\Primer semestre\Pensamiento Computacional\Laboratorio\Git hub\Laboratorios\PROYECTO 1-b\PROYECTO 1-b\obj\Debug\net10.0\refint\PROYECTO 1-b.dll
+C:\Users\ASUS\OneDrive\Documentos\José\2026\URL\Primer semestre\Pensamiento Computacional\Laboratorio\Git hub\Laboratorios\PROYECTO 1-b\PROYECTO 1-b\obj\Debug\net10.0\PROYECTO 1-b.pdb
+C:\Users\ASUS\OneDrive\Documentos\José\2026\URL\Primer semestre\Pensamiento Computacional\Laboratorio\Git hub\Laboratorios\PROYECTO 1-b\PROYECTO 1-b\obj\Debug\net10.0\PROYECTO 1-b.genruntimeconfig.cache
+C:\Users\ASUS\OneDrive\Documentos\José\2026\URL\Primer semestre\Pensamiento Computacional\Laboratorio\Git hub\Laboratorios\PROYECTO 1-b\PROYECTO 1-b\obj\Debug\net10.0\ref\PROYECTO 1-b.dll

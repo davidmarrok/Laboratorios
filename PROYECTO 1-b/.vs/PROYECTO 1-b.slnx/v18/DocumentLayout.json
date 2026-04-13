@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\OneDrive\\Documentos\\Jos\u00E9\\2026\\URL\\Primer semestre\\Pensamiento Computacional\\Laboratorio\\Git hub\\Laboratorios\\PROYECTO 1-b\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B25AE0AD-848C-BBF0-5264-C04220DC9456}|PROYECTO 1-b\\PROYECTO 1-b.csproj|c:\\users\\asus\\onedrive\\documentos\\jos\u00E9\\2026\\url\\primer semestre\\pensamiento computacional\\laboratorio\\git hub\\laboratorios\\proyecto 1-b\\proyecto 1-b\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B25AE0AD-848C-BBF0-5264-C04220DC9456}|PROYECTO 1-b\\PROYECTO 1-b.csproj|solutionrelative:proyecto 1-b\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Documentos\\Jos\u00E9\\2026\\URL\\Primer semestre\\Pensamiento Computacional\\Laboratorio\\Git hub\\Laboratorios\\PROYECTO 1-b\\PROYECTO 1-b\\Program.cs",
+              "RelativeDocumentMoniker": "PROYECTO 1-b\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Documentos\\Jos\u00E9\\2026\\URL\\Primer semestre\\Pensamiento Computacional\\Laboratorio\\Git hub\\Laboratorios\\PROYECTO 1-b\\PROYECTO 1-b\\Program.cs",
+              "RelativeToolTip": "PROYECTO 1-b\\Program.cs",
+              "ViewState": "AgIAALsAAAAAAAAAAAAQwN8AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T02:07:50.078Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

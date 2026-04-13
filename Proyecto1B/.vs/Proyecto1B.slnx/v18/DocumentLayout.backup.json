@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\OneDrive\\Documentos\\Jos\u00E9\\2026\\URL\\Primer semestre\\Pensamiento Computacional\\Laboratorio\\Git hub\\Laboratorios\\Proyecto1B\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7B55B37F-BA8C-01E3-9C90-4C48F8BF1150}|Proyecto1B\\Proyecto1B.csproj|c:\\users\\asus\\onedrive\\documentos\\jos\u00E9\\2026\\url\\primer semestre\\pensamiento computacional\\laboratorio\\git hub\\laboratorios\\proyecto1b\\proyecto1b\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B55B37F-BA8C-01E3-9C90-4C48F8BF1150}|Proyecto1B\\Proyecto1B.csproj|solutionrelative:proyecto1b\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\18\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\18\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AgIAALEEAAAAAAAAAAAAwCwSAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2026-03-24T21:55:05.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Documentos\\Jos\u00E9\\2026\\URL\\Primer semestre\\Pensamiento Computacional\\Laboratorio\\Git hub\\Laboratorios\\Proyecto1B\\Proyecto1B\\Program.cs",
+              "RelativeDocumentMoniker": "Proyecto1B\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Documentos\\Jos\u00E9\\2026\\URL\\Primer semestre\\Pensamiento Computacional\\Laboratorio\\Git hub\\Laboratorios\\Proyecto1B\\Proyecto1B\\Program.cs",
+              "RelativeToolTip": "Proyecto1B\\Program.cs",
+              "ViewState": "AgIAAJ0AAAAAAAAAAAAQwKkAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T00:15:59.517Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
