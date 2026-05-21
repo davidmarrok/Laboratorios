@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\OneDrive\\Documentos\\Jos\u00E9\\2026\\URL\\Primer semestre\\Pensamiento Computacional\\Laboratorio\\Git hub\\Laboratorios\\L14_JDMN_1145026\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{56CACDD1-9EF4-48A8-8F1D-9BD9FF95ACE7}|L14_JDMN_1145026\\L14_JDMN_1145026.csproj|c:\\users\\asus\\onedrive\\documentos\\jos\u00E9\\2026\\url\\primer semestre\\pensamiento computacional\\laboratorio\\git hub\\laboratorios\\l14_jdmn_1145026\\l14_jdmn_1145026\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56CACDD1-9EF4-48A8-8F1D-9BD9FF95ACE7}|L14_JDMN_1145026\\L14_JDMN_1145026.csproj|solutionrelative:l14_jdmn_1145026\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Documentos\\Jos\u00E9\\2026\\URL\\Primer semestre\\Pensamiento Computacional\\Laboratorio\\Git hub\\Laboratorios\\L14_JDMN_1145026\\L14_JDMN_1145026\\Program.cs",
+              "RelativeDocumentMoniker": "L14_JDMN_1145026\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Documentos\\Jos\u00E9\\2026\\URL\\Primer semestre\\Pensamiento Computacional\\Laboratorio\\Git hub\\Laboratorios\\L14_JDMN_1145026\\L14_JDMN_1145026\\Program.cs",
+              "RelativeToolTip": "L14_JDMN_1145026\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwPwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T04:46:48.916Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
