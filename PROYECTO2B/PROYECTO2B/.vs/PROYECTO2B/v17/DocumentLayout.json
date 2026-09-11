@@ -1,0 +1,268 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jeanl\\source\\repos\\LABORATORIOS\\C\u002B\u002B\\PROYECTO2B\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CF669D72-8882-49BD-B67C-41EFA2505318}|PROYECTO2B.vcxproj|C:\\Users\\jeanl\\source\\repos\\LABORATORIOS\\C\u002B\u002B\\PROYECTO2B\\PROYECTO2B.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CF669D72-8882-49BD-B67C-41EFA2505318}|PROYECTO2B.vcxproj|solutionrelative:PROYECTO2B.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF669D72-8882-49BD-B67C-41EFA2505318}|PROYECTO2B.vcxproj|C:\\Users\\jeanl\\source\\repos\\LABORATORIOS\\C\u002B\u002B\\PROYECTO2B\\SimuladorMercado.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CF669D72-8882-49BD-B67C-41EFA2505318}|PROYECTO2B.vcxproj|solutionrelative:SimuladorMercado.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF669D72-8882-49BD-B67C-41EFA2505318}|PROYECTO2B.vcxproj|C:\\Users\\jeanl\\source\\repos\\LABORATORIOS\\C\u002B\u002B\\PROYECTO2B\\SimuladorMercado.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CF669D72-8882-49BD-B67C-41EFA2505318}|PROYECTO2B.vcxproj|solutionrelative:SimuladorMercado.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF669D72-8882-49BD-B67C-41EFA2505318}|PROYECTO2B.vcxproj|C:\\Users\\jeanl\\source\\repos\\LABORATORIOS\\C\u002B\u002B\\PROYECTO2B\\Transferencia.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CF669D72-8882-49BD-B67C-41EFA2505318}|PROYECTO2B.vcxproj|solutionrelative:Transferencia.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF669D72-8882-49BD-B67C-41EFA2505318}|PROYECTO2B.vcxproj|C:\\Users\\jeanl\\source\\repos\\LABORATORIOS\\C\u002B\u002B\\PROYECTO2B\\Oferta.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CF669D72-8882-49BD-B67C-41EFA2505318}|PROYECTO2B.vcxproj|solutionrelative:Oferta.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF669D72-8882-49BD-B67C-41EFA2505318}|PROYECTO2B.vcxproj|C:\\Users\\jeanl\\source\\repos\\LABORATORIOS\\C\u002B\u002B\\PROYECTO2B\\Club.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CF669D72-8882-49BD-B67C-41EFA2505318}|PROYECTO2B.vcxproj|solutionrelative:Club.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF669D72-8882-49BD-B67C-41EFA2505318}|PROYECTO2B.vcxproj|C:\\Users\\jeanl\\source\\repos\\LABORATORIOS\\C\u002B\u002B\\PROYECTO2B\\Portero.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CF669D72-8882-49BD-B67C-41EFA2505318}|PROYECTO2B.vcxproj|solutionrelative:Portero.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF669D72-8882-49BD-B67C-41EFA2505318}|PROYECTO2B.vcxproj|C:\\Users\\jeanl\\source\\repos\\LABORATORIOS\\C\u002B\u002B\\PROYECTO2B\\Defensa.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CF669D72-8882-49BD-B67C-41EFA2505318}|PROYECTO2B.vcxproj|solutionrelative:Defensa.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF669D72-8882-49BD-B67C-41EFA2505318}|PROYECTO2B.vcxproj|C:\\Users\\jeanl\\source\\repos\\LABORATORIOS\\C\u002B\u002B\\PROYECTO2B\\Mediocampista.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CF669D72-8882-49BD-B67C-41EFA2505318}|PROYECTO2B.vcxproj|solutionrelative:Mediocampista.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF669D72-8882-49BD-B67C-41EFA2505318}|PROYECTO2B.vcxproj|C:\\Users\\jeanl\\source\\repos\\LABORATORIOS\\C\u002B\u002B\\PROYECTO2B\\Delantero.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CF669D72-8882-49BD-B67C-41EFA2505318}|PROYECTO2B.vcxproj|solutionrelative:Delantero.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF669D72-8882-49BD-B67C-41EFA2505318}|PROYECTO2B.vcxproj|C:\\Users\\jeanl\\source\\repos\\LABORATORIOS\\C\u002B\u002B\\PROYECTO2B\\Delantero.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CF669D72-8882-49BD-B67C-41EFA2505318}|PROYECTO2B.vcxproj|solutionrelative:Delantero.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF669D72-8882-49BD-B67C-41EFA2505318}|PROYECTO2B.vcxproj|C:\\Users\\jeanl\\source\\repos\\LABORATORIOS\\C\u002B\u002B\\PROYECTO2B\\Mediocampista.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CF669D72-8882-49BD-B67C-41EFA2505318}|PROYECTO2B.vcxproj|solutionrelative:Mediocampista.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF669D72-8882-49BD-B67C-41EFA2505318}|PROYECTO2B.vcxproj|C:\\Users\\jeanl\\source\\repos\\LABORATORIOS\\C\u002B\u002B\\PROYECTO2B\\Defensa.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CF669D72-8882-49BD-B67C-41EFA2505318}|PROYECTO2B.vcxproj|solutionrelative:Defensa.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF669D72-8882-49BD-B67C-41EFA2505318}|PROYECTO2B.vcxproj|C:\\Users\\jeanl\\source\\repos\\LABORATORIOS\\C\u002B\u002B\\PROYECTO2B\\Portero.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CF669D72-8882-49BD-B67C-41EFA2505318}|PROYECTO2B.vcxproj|solutionrelative:Portero.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF669D72-8882-49BD-B67C-41EFA2505318}|PROYECTO2B.vcxproj|C:\\Users\\jeanl\\source\\repos\\LABORATORIOS\\C\u002B\u002B\\PROYECTO2B\\Jugador.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CF669D72-8882-49BD-B67C-41EFA2505318}|PROYECTO2B.vcxproj|solutionrelative:Jugador.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Jugador.h",
+              "DocumentMoniker": "C:\\Users\\jeanl\\source\\repos\\LABORATORIOS\\C\u002B\u002B\\PROYECTO2B\\Jugador.h",
+              "RelativeDocumentMoniker": "Jugador.h",
+              "ToolTip": "C:\\Users\\jeanl\\source\\repos\\LABORATORIOS\\C\u002B\u002B\\PROYECTO2B\\Jugador.h",
+              "RelativeToolTip": "Jugador.h",
+              "ViewState": "AgIAABQAAAAAAAAAAAAIwCwAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-09-09T01:55:27.574Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SimuladorMercado.h",
+              "DocumentMoniker": "C:\\Users\\jeanl\\source\\repos\\LABORATORIOS\\C\u002B\u002B\\PROYECTO2B\\SimuladorMercado.h",
+              "RelativeDocumentMoniker": "SimuladorMercado.h",
+              "ToolTip": "C:\\Users\\jeanl\\source\\repos\\LABORATORIOS\\C\u002B\u002B\\PROYECTO2B\\SimuladorMercado.h",
+              "RelativeToolTip": "SimuladorMercado.h",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwEMAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-09-09T23:43:36.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Transferencia.h",
+              "DocumentMoniker": "C:\\Users\\jeanl\\source\\repos\\LABORATORIOS\\C\u002B\u002B\\PROYECTO2B\\Transferencia.h",
+              "RelativeDocumentMoniker": "Transferencia.h",
+              "ToolTip": "C:\\Users\\jeanl\\source\\repos\\LABORATORIOS\\C\u002B\u002B\\PROYECTO2B\\Transferencia.h",
+              "RelativeToolTip": "Transferencia.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-09-09T23:41:59.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Oferta.h",
+              "DocumentMoniker": "C:\\Users\\jeanl\\source\\repos\\LABORATORIOS\\C\u002B\u002B\\PROYECTO2B\\Oferta.h",
+              "RelativeDocumentMoniker": "Oferta.h",
+              "ToolTip": "C:\\Users\\jeanl\\source\\repos\\LABORATORIOS\\C\u002B\u002B\\PROYECTO2B\\Oferta.h",
+              "RelativeToolTip": "Oferta.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-09-09T23:41:16.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Club.h",
+              "DocumentMoniker": "C:\\Users\\jeanl\\source\\repos\\LABORATORIOS\\C\u002B\u002B\\PROYECTO2B\\Club.h",
+              "RelativeDocumentMoniker": "Club.h",
+              "ToolTip": "C:\\Users\\jeanl\\source\\repos\\LABORATORIOS\\C\u002B\u002B\\PROYECTO2B\\Club.h",
+              "RelativeToolTip": "Club.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-09-09T23:39:19.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Delantero.h",
+              "DocumentMoniker": "C:\\Users\\jeanl\\source\\repos\\LABORATORIOS\\C\u002B\u002B\\PROYECTO2B\\Delantero.h",
+              "RelativeDocumentMoniker": "Delantero.h",
+              "ToolTip": "C:\\Users\\jeanl\\source\\repos\\LABORATORIOS\\C\u002B\u002B\\PROYECTO2B\\Delantero.h",
+              "RelativeToolTip": "Delantero.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-09-09T23:22:26.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Mediocampista.cpp",
+              "DocumentMoniker": "C:\\Users\\jeanl\\source\\repos\\LABORATORIOS\\C\u002B\u002B\\PROYECTO2B\\Mediocampista.cpp",
+              "RelativeDocumentMoniker": "Mediocampista.cpp",
+              "ToolTip": "C:\\Users\\jeanl\\source\\repos\\LABORATORIOS\\C\u002B\u002B\\PROYECTO2B\\Mediocampista.cpp",
+              "RelativeToolTip": "Mediocampista.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-09-09T23:20:36.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PROYECTO2B.cpp",
+              "DocumentMoniker": "C:\\Users\\jeanl\\source\\repos\\LABORATORIOS\\C\u002B\u002B\\PROYECTO2B\\PROYECTO2B.cpp",
+              "RelativeDocumentMoniker": "PROYECTO2B.cpp",
+              "ToolTip": "C:\\Users\\jeanl\\source\\repos\\LABORATORIOS\\C\u002B\u002B\\PROYECTO2B\\PROYECTO2B.cpp",
+              "RelativeToolTip": "PROYECTO2B.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-09-09T01:55:09.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SimuladorMercado.cpp",
+              "DocumentMoniker": "C:\\Users\\jeanl\\source\\repos\\LABORATORIOS\\C\u002B\u002B\\PROYECTO2B\\SimuladorMercado.cpp",
+              "RelativeDocumentMoniker": "SimuladorMercado.cpp",
+              "ToolTip": "C:\\Users\\jeanl\\source\\repos\\LABORATORIOS\\C\u002B\u002B\\PROYECTO2B\\SimuladorMercado.cpp",
+              "RelativeToolTip": "SimuladorMercado.cpp",
+              "ViewState": "AgIAAHcCAAAAAAAAAAAQwI8CAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-09-09T23:43:52.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Delantero.cpp",
+              "DocumentMoniker": "C:\\Users\\jeanl\\source\\repos\\LABORATORIOS\\C\u002B\u002B\\PROYECTO2B\\Delantero.cpp",
+              "RelativeDocumentMoniker": "Delantero.cpp",
+              "ToolTip": "C:\\Users\\jeanl\\source\\repos\\LABORATORIOS\\C\u002B\u002B\\PROYECTO2B\\Delantero.cpp",
+              "RelativeToolTip": "Delantero.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAACCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-09-09T23:23:22.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Mediocampista.h",
+              "DocumentMoniker": "C:\\Users\\jeanl\\source\\repos\\LABORATORIOS\\C\u002B\u002B\\PROYECTO2B\\Mediocampista.h",
+              "RelativeDocumentMoniker": "Mediocampista.h",
+              "ToolTip": "C:\\Users\\jeanl\\source\\repos\\LABORATORIOS\\C\u002B\u002B\\PROYECTO2B\\Mediocampista.h",
+              "RelativeToolTip": "Mediocampista.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-09-09T23:19:50.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Defensa.cpp",
+              "DocumentMoniker": "C:\\Users\\jeanl\\source\\repos\\LABORATORIOS\\C\u002B\u002B\\PROYECTO2B\\Defensa.cpp",
+              "RelativeDocumentMoniker": "Defensa.cpp",
+              "ToolTip": "C:\\Users\\jeanl\\source\\repos\\LABORATORIOS\\C\u002B\u002B\\PROYECTO2B\\Defensa.cpp",
+              "RelativeToolTip": "Defensa.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-09-09T23:17:13.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Defensa.h",
+              "DocumentMoniker": "C:\\Users\\jeanl\\source\\repos\\LABORATORIOS\\C\u002B\u002B\\PROYECTO2B\\Defensa.h",
+              "RelativeDocumentMoniker": "Defensa.h",
+              "ToolTip": "C:\\Users\\jeanl\\source\\repos\\LABORATORIOS\\C\u002B\u002B\\PROYECTO2B\\Defensa.h",
+              "RelativeToolTip": "Defensa.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-09-09T23:16:56.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Portero.cpp",
+              "DocumentMoniker": "C:\\Users\\jeanl\\source\\repos\\LABORATORIOS\\C\u002B\u002B\\PROYECTO2B\\Portero.cpp",
+              "RelativeDocumentMoniker": "Portero.cpp",
+              "ToolTip": "C:\\Users\\jeanl\\source\\repos\\LABORATORIOS\\C\u002B\u002B\\PROYECTO2B\\Portero.cpp",
+              "RelativeToolTip": "Portero.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-09-09T13:20:31.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Portero.h",
+              "DocumentMoniker": "C:\\Users\\jeanl\\source\\repos\\LABORATORIOS\\C\u002B\u002B\\PROYECTO2B\\Portero.h",
+              "RelativeDocumentMoniker": "Portero.h",
+              "ToolTip": "C:\\Users\\jeanl\\source\\repos\\LABORATORIOS\\C\u002B\u002B\\PROYECTO2B\\Portero.h",
+              "RelativeToolTip": "Portero.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-09-09T02:06:15.204Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
